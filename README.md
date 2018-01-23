@@ -1,0 +1,1 @@
+A basic JavaScript file that creates a grocery list and prints it to the console and also checks the inventory of two data sets(bodegas) to see if the list can be purchased at either location in it's entirety. 
